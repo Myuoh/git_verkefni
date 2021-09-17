@@ -24,3 +24,4 @@ einfalt að nota, hægt að vita hver gerði breytingar seinast, ókeypis, ef þ
 mjög reglulega
 
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+"Working Directory" í git er alltsem á eftir að adda inn  og "staging area" er þar sem öll skjöl fara áður en þú committar þeim
