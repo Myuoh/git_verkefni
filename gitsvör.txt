@@ -15,9 +15,9 @@ git checkout - leyfir þér að færa þig á milli branch eða endurheimta vinn
 git branch - sýnir hvaða branch þú ert í
 
 4. Hvað er útgáfustýring (Version Control)?
+Útgáfustýring er venjan að rekja og stjórna kóða og breytingum á honum
 
-
-Hverjir eru helstu kostir við að nota GIT?
+5. Hverjir eru helstu kostir við að nota GIT?
 
 
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
