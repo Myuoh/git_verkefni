@@ -1,0 +1,5 @@
+1. cd leyfir þér að fara milli geymsla "repository"
+   ls sýnir þér lista af innihöldum geysmlunar sem þú ert í
+   pwd sýnir þér í hvaða geymslu þú ert í
+   mkdir býr til geymslu þar sem þú biður
+
