@@ -20,7 +20,7 @@ git branch - sýnir hvaða branch þú ert í
 5. Hverjir eru helstu kostir við að nota GIT?
 einfalt að nota, hægt að vita hver gerði breytingar seinast, ókeypis, ef þú gerir einhver mistök geturu tekið allt til baka.
 
-Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+mjög reglulega
 
-
-Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
