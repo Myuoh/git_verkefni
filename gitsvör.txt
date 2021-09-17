@@ -9,12 +9,12 @@ git clone - "Klónar" git geymslu inn í bashið manns
 git status - kíkir hvort það sé ekki örugglega allt rétt í git möppunni
 git diff - sýnir hvaða breytingar hafa verið gerðar
 
-Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
-git log- 
-git checkout - 
-git branch - 
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+git log- sýnir öll commits 
+git checkout - leyfir þér að færa þig á milli branch eða endurheimta vinnutréskrár
+git branch - sýnir hvaða branch þú ert í
 
-Hvað er útgáfustýring (Version Control)?
+4. Hvað er útgáfustýring (Version Control)?
 
 
 Hverjir eru helstu kostir við að nota GIT?
