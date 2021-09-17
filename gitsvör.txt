@@ -18,7 +18,7 @@ git branch - sýnir hvaða branch þú ert í
 Útgáfustýring er venjan að rekja og stjórna kóða og breytingum á honum
 
 5. Hverjir eru helstu kostir við að nota GIT?
-
+einfalt að nota, hægt að vita hver gerði breytingar seinast, ókeypis, ef þú gerir einhver mistök geturu tekið allt til baka.
 
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 
